@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Region</string>
+    <string name="formatted_string">%1$s: %2$s</string>
+</resources>
